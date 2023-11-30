@@ -1,0 +1,8 @@
+name: John Doe
+age: 30
+city: New York
+email: john.doe@example.com
+is_student: false
+grades:
+  - math: 95
+  - science: 89
